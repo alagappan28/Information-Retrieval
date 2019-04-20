@@ -1,0 +1,3 @@
+Precision score : 0.1347796509797329
+Recall Score : 0.4415028843967992
+Mean Average Precision : 0.2650958794354762
